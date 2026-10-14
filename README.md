@@ -22,11 +22,6 @@ Macro-averaged accuracy on all held-out images. **Bold** = best model for that d
 | Insects | ResNet-50 | 8.30% | 18.68% | 24.98% | 31.00% |
 | Insects | VGG-16 | 4.81% | 9.74% | 6.94% | 8.24% |
 
-<p>
-  <img src="results/animals_accuracy.png" width="32%" alt="Animals: accuracy vs samples per class">
-  <img src="results/flowers_accuracy.png" width="32%" alt="Flowers: accuracy vs samples per class">
-  <img src="results/insects_accuracy.png" width="32%" alt="Insects: accuracy vs samples per class">
-</p>
 
 ## Key findings
 
